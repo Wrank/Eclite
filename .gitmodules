@@ -1,0 +1,12 @@
+[submodule "EcliteCore"]
+	path = EcliteCore
+	url = https://github.com/Wrank/EcliteCore
+[submodule "EcliteUtils"]
+	path = EcliteUtils
+	url = https://github.com/Wrank/EcliteUtils
+[submodule "EcliteAdminConsole"]
+	path = EcliteAdminConsole
+	url = https://github.com/Wrank/EcliteAdminConsole
+[submodule "EclitePages"]
+	path = EclitePages
+	url = https://github.com/Wrank/EclitePages
